@@ -15,15 +15,6 @@ DATA STRUCTURE
 -------------
 Place your YouTube data in a directory structure as follows:
 
-youtube_data/
-├── 0222/         - Video data folder
-│   ├── 0.txt
-│   ├── 1.txt
-│   └── ...
-├── 0523/         - Size data folder
-│   └── size.txt
-└── 0528/         - User data folder
-    └── user.txt
 ![image](https://github.com/user-attachments/assets/6e379de5-013b-4d49-a8b9-44f93b3d973b)
 
 USAGE
