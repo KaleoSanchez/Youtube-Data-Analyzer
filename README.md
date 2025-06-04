@@ -24,6 +24,7 @@ youtube_data/
 │   └── size.txt
 └── 0528/         - User data folder
     └── user.txt
+![image](https://github.com/user-attachments/assets/6e379de5-013b-4d49-a8b9-44f93b3d973b)
 
 USAGE
 -----
